@@ -1,8 +1,8 @@
 <h1>ExpNo 9: Solve Wumpus World Problem using Python demonstrating Inferences from Propositional Logic</h1> 
 ## Aim :
-<p>
+
     To solve  Wumpus World Problem using Python demonstrating Inferences from Propositional Logic
-</p>
+
 <h1>Problem Description</h1>
 <hr>
 <h2>Wumpus World</h2>
